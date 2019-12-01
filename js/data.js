@@ -1,5 +1,5 @@
 const account = [
-    { month: 0, income: 150 },
+    { month: 10, income: 150 },
     { month: 1, income: 200, expense: 50 },
     { month: 3, income: 450, expense: 200 },
     { month: 7, expense: 50 },
@@ -13,4 +13,4 @@ const account = [
     { month: 12, expense: 200 }
 ];
 
-const months = ['Sausis', 'Vasaris', 'Kovas'];
+const months = ['Sausis', 'Vasaris', 'Kovas', 'Balandis', 'Geguze', 'Birzelis', 'Liepa', 'Rugpjutis', 'Rugsejis', 'Spalis', 'Lapkritis', 'Gruodis'];
